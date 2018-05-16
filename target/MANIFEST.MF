@@ -1,0 +1,12 @@
+Manifest-Version: 1.0.0.201805151131
+TIBCO-BW-Application: META-INF/TIBCO.xml
+Bundle-SymbolicName: test_prj
+Bundle-Name: Test_prj
+Bundle-Version: 1.0.0.201805151131
+Bundle-ManifestVersion: 2
+TIBCO-BW-Edition: bwcf
+Bundle-Vendor: TIBCO Software Inc.
+TIBCO-BWCE-Edition-Target: cf
+TIBCO-BW-ConfigProfile: META-INF/default.substvar
+TIBCO-BW-Version: 2.3.2 V32 2017-11-05
+
